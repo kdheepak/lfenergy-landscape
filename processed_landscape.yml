@@ -5926,7 +5926,6 @@ landscape:
             name: RTE (Reseau de Transport dElectricite)
             homepage_url: https://rte-france.com/
             logo: rte_reseau_de_transport_delectricite.svg
-            twitter: https://twitter.com/rte_france
             crunchbase: https://www.crunchbase.com/organization/rte-france
             crunchbase_data:
               name: RTE France
@@ -5961,7 +5960,6 @@ landscape:
             name: Blockchain Technology Partners
             homepage_url: https://blockchaintp.com/
             logo: blockchain_technology_partners.svg
-            twitter: https://twitter.com/blockchaintp
             crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
             crunchbase_data:
               name: BTP
@@ -5996,7 +5994,6 @@ landscape:
             name: CloudBees, Inc.
             homepage_url: https://cloudbees.com/
             logo: cloudbees_inc.svg
-            twitter: https://twitter.com/CloudBees
             crunchbase: https://www.crunchbase.com/organization/cloudbees
             crunchbase_data:
               name: CloudBees
@@ -6079,7 +6076,6 @@ landscape:
             name: General Electric Company
             homepage_url: https://ge.com/
             logo: general_electric_company.svg
-            twitter: https://twitter.com/generalelectric
             crunchbase: https://www.crunchbase.com/organization/general-electric
             crunchbase_data:
               name: General Electric (GE)
@@ -6193,7 +6189,6 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
-            twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
             crunchbase_data:
               name: Hitachi
@@ -6264,7 +6259,6 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://www.microsoft.com/en-us
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
             crunchbase_data:
               name: Microsoft
@@ -6838,7 +6832,6 @@ landscape:
             name: OSIsoft
             homepage_url: https://osisoft.com/
             logo: osisoft.svg
-            twitter: https://twitter.com/OSIsoft
             crunchbase: https://www.crunchbase.com/organization/osisoft
             crunchbase_data:
               name: OSIsoft
@@ -6911,7 +6904,6 @@ landscape:
             name: Savoir-faire Linux
             homepage_url: https://savoirfairelinux.com/fr
             logo: savoir-faire_linux.svg
-            twitter: https://twitter.com/SFLinux
             crunchbase: https://www.crunchbase.com/organization/savoir-faire-linux
             crunchbase_data:
               name: Savoir-faire Linux
@@ -7107,7 +7099,6 @@ landscape:
             name: Delft University of Technology
             homepage_url: https://tudelft.nl/
             logo: delft_university_of_technology.svg
-            twitter: https://twitter.com/tudelft
             crunchbase: https://www.crunchbase.com/organization/delft-university-of-technology
             crunchbase_data:
               name: Delft University of Technology
@@ -7370,7 +7361,6 @@ landscape:
             name: Fraunhofer Gesellschaft IIS
             homepage_url: https://iis.fraunhofer.de/
             logo: fraunhofer_gesellschaft_iis.svg
-            twitter: https://twitter.com/Fraunhofer
             crunchbase: https://www.crunchbase.com/organization/fraunhofer-gesellschaft
             crunchbase_data:
               name: Fraunhofer-Gesellschaft
@@ -7440,7 +7430,6 @@ landscape:
             name: Friedrich-Alexander-University (FAU)
             homepage_url: https://fau.eu/
             logo: friedrich-alexander-university_fau.svg
-            twitter: https://twitter.com/UniFAU
             crunchbase: https://www.crunchbase.com/organization/university-of-erlangen-nuremberg
             crunchbase_data:
               name: Friedrich Alexander Universität Erlangen Nürnberg
@@ -7541,7 +7530,6 @@ landscape:
             name: Lucerne University of Applied Sciences
             homepage_url: https://www.hslu.ch/de-ch
             logo: lucerne_university_of_applied_sciences.svg
-            twitter: https://twitter.com/hslu
             crunchbase: https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts
             crunchbase_data:
               name: Lucerne University of Applied Sciences and Arts
@@ -7572,7 +7560,6 @@ landscape:
             name: Monash University
             homepage_url: https://monash.edu/
             logo: monash_university.svg
-            twitter: https://twitter.com/MonashUni
             crunchbase: https://www.crunchbase.com/organization/monash-university
             crunchbase_data:
               name: Monash University
@@ -7639,7 +7626,6 @@ landscape:
             name: Open Earth Foundation
             homepage_url: https://openearth.org
             logo: open_earth_foundation.svg
-            twitter: https://twitter.com/Open__Earth
             crunchbase: https://www.crunchbase.com/organization/open-earth-foundation
             crunchbase_data:
               name: Open Earth Foundation
@@ -7704,7 +7690,6 @@ landscape:
             description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
             crunchbase_data:
               name: OpenUK
@@ -7734,7 +7719,6 @@ landscape:
             name: Pecan Street Inc.
             homepage_url: https://pecanstreet.org/
             logo: pecan_street_inc.svg
-            twitter: https://twitter.com/pecanstreetinc
             crunchbase: https://www.crunchbase.com/organization/pecan-street
             crunchbase_data:
               name: Pecan Street
@@ -7767,7 +7751,6 @@ landscape:
             name: Project Haystack
             homepage_url: https://project-haystack.org/
             logo: project_haystack.svg
-            twitter: https://twitter.com/haystackTagging
             crunchbase: https://www.crunchbase.com/organization/project-haystack
             crunchbase_data:
               name: Project Haystack
@@ -7834,7 +7817,6 @@ landscape:
             name: Stanford University
             homepage_url: https://stanford.edu/
             logo: stanford_university.svg
-            twitter: https://twitter.com/Stanford
             crunchbase: https://www.crunchbase.com/organization/stanford-university
             crunchbase_data:
               name: Stanford University
@@ -7869,7 +7851,6 @@ landscape:
             name: The Alan Turing Institute
             homepage_url: https://turing.ac.uk/
             logo: the_alan_turing_institute.svg
-            twitter: https://twitter.com/turinginst
             crunchbase: https://www.crunchbase.com/organization/alan-turing-institute
             crunchbase_data:
               name: Alan Turing Institute
@@ -7935,7 +7916,6 @@ landscape:
             name: University of Kassel
             homepage_url: https://www.uni-kassel.de/uni
             logo: university_of_kassel.svg
-            twitter: https://twitter.com/presseunikassel
             crunchbase: https://www.crunchbase.com/organization/university-of-kassel
             crunchbase_data:
               name: University of Kassel
@@ -8002,7 +7982,6 @@ landscape:
             name: Washington State University
             homepage_url: https://wsu.edu/
             logo: washington_state_university.svg
-            twitter: https://twitter.com/WSUPullman
             crunchbase: https://www.crunchbase.com/organization/washington-state-university-pullman
             crunchbase_data:
               name: Washington State University
